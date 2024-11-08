@@ -12,7 +12,7 @@
 
 2. **Git 提交：**
    - 按照邮箱提交中的要求准备材料。
-   - 通过 PR 提交到 [GitHub 仓库](https://github.com/Yazsren/assessment_period_work)。
+   - 通过 PR 提交到 [GitHub 仓库](https://github.com/Yazs-17/Snc_PP_Assessment_Period_Work)。
    - 成功提交将获得考核期加分。
 
 ---
