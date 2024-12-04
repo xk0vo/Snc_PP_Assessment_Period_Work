@@ -1,0 +1,3 @@
+[submodule "assessment_work_by_zsq_1.0/lottery"]
+	path = assessment_work_by_zsq_1.0/lottery
+	url = git@github.com:xk0vo/lottery.git
